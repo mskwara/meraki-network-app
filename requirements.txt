@@ -1,0 +1,7 @@
+tkcalendar
+tkinter
+PIL
+requests
+aiohttp
+matplotlib
+io
